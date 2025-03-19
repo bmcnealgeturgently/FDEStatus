@@ -1,0 +1,2 @@
+Device Name: ULY-VX591L9Y2W
+FileVault Status: FileVault is Off.
